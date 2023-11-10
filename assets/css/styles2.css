@@ -1,0 +1,29 @@
+.project-image {
+    border: 3px solid #007BFF; /* Borde de 3px color azul sólido */
+    width: 100%; 
+    height: auto; 
+    cursor: pointer; 
+  }
+  
+  /* Estilos para la grid */
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto repeat(1, 2fr);
+    gap: 10px; /* Espacio entre celdas */
+    max-width: 600px;
+    min-width: 270px;  
+    margin-right: 20px;
+
+}
+  
+  
+  .project-title {
+    max-width: auto; 
+    
+    
+  }
+  
+  
+  
+  
+  
